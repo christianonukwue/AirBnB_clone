@@ -1,4 +1,4 @@
-<img src="https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Airbnb - Apps on Google Play" data-noaft="1" style="width: 482px; height: 482px; margin: 0px;">
+<p align="center"><img src="https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Airbnb - Apps on Google Play" data-noaft="1" style="width: 482px; height: 482px; margin: 0px;"></p>
 
 <h1 align="center">AlxBnB</h1>
 <p align="center">An AirBnB clone.</p>

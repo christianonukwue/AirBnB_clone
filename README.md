@@ -1,5 +1,5 @@
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230211T123534Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1746369416dd1010455cb6e8067e55a58da7d24796d5c4eb6ac9a684e012b9f8" alt="" loading="lazy" style="">
-
+<p> <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230211T123534Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=1746369416dd1010455cb6e8067e55a58da7d24796d5c4eb6ac9a684e012b9f8" alt="" loading="lazy" style="">
+</p>
 
 <h1 align="center">AlxBnB</h1>
 <p align="center">An AirBnB clone.</p>

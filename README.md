@@ -1,4 +1,4 @@
-<p align="center">(./hbnb.png)</p>
+<p align="center">![HBnB](./hbnb.png)</p>
 
 
 <h1 align="center">AlxBnB</h1>

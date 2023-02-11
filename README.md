@@ -90,5 +90,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-* **<>
-* **   ** <>
+* Christian onukwue <Chris4onu@gmail.com>
+* Olopade Tolu <getolopadetolu@gmail.com>

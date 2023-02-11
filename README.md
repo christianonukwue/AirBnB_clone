@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/amiassefa/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="AlxBnB logo">
-</p>
+<p align="center">(./hbnb.png)</p>
 
 
 <h1 align="center">AlxBnB</h1>

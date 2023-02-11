@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/d8a348e1fceb92d45fa8981ac42a6223e454acefe89750896e80fd1287cab92b/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3133322d313332323132355f7472616e73706172656e742d6261636b67726f756e642d616972626e622d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67" alt="AirBnB Logo" data-canonical-src="https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png" style="max-width: 100%;">
+https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T123534Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1746369416dd1010455cb6e8067e55a58da7d24796d5c4eb6ac9a684e012b9f8
 
 
 <h1 align="center">AlxBnB</h1>
